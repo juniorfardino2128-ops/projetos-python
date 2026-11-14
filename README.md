@@ -196,7 +196,27 @@ Projeto desenvolvido em Python utilizando a biblioteca Matplotlib para criar um 
 - Função `zip()`
 - Visualização de dados
 - Construção e personalização de gráficos
+## 8. Análise de Vendedores que Bateram a Meta
 
+Projeto desenvolvido em Python para analisar o desempenho de vendedores com base em uma meta de vendas de R$ 20.000.
+
+### Funcionalidades
+- Armazenamento dos nomes dos vendedores e seus valores de vendas.
+- Identificação dos vendedores que atingiram ou ultrapassaram a meta.
+- Cálculo do percentual de vendedores que bateram a meta.
+- Identificação do vendedor com maior volume de vendas.
+
+### Tecnologias utilizadas
+- Python
+- Jupyter Notebook
+
+### Conceitos praticados
+- Listas
+- Estruturas condicionais (`if`)
+- Estruturas de repetição (`for`)
+- Funções de lista (`append()`)
+- Função `len()`
+- Formatação de resultados com `format()`
 
 
 
