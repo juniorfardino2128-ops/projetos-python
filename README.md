@@ -217,7 +217,27 @@ Projeto desenvolvido em Python para analisar o desempenho de vendedores com base
 - Funções de lista (`append()`)
 - Função `len()`
 - Formatação de resultados com `format()`
+## 9. Simulação de Identificação de Bebidas Alcoólicas
 
+Projeto desenvolvido em Python durante uma aula, com o objetivo de identificar produtos classificados como bebidas alcoólicas por meio de seus códigos.
+
+### Funcionalidades
+- Recebimento de uma lista de códigos de produtos.
+- Verificação dos códigos por meio de uma função.
+- Identificação dos produtos que contêm a sequência "BEB".
+- Exibição de uma mensagem direcionando os produtos identificados ao setor de bebidas alcoólicas.
+
+### Tecnologias utilizadas
+- Python
+- Jupyter Notebook
+
+### Conceitos praticados
+- Criação de funções (`def`)
+- Parâmetros e retorno (`return`)
+- Conversão de texto com `.upper()`
+- Estruturas condicionais (`if` e `else`)
+- Estruturas de repetição (`for`)
+- Listas
 
 
 
