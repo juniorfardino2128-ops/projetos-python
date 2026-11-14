@@ -23,3 +23,25 @@ O objetivo é simular o controle de estoque de uma loja, permitindo gerenciar pr
 
 ## Aprendizado
 Projeto desenvolvido como prática de lógica de programação e construção de sistemas em Python.
+---
+
+# Comparativo de Vendas – 2022 e 2023
+
+## Sobre o projeto
+
+Projeto independente desenvolvido em Python durante meus estudos e prática de programação.
+
+O objetivo é comparar os resultados de vendas entre os anos de 2022 e 2023.
+
+## Tecnologias e conceitos utilizados
+
+- Python
+- Listas
+- Função zip()
+- Dicionários
+
+## Aprendizados
+
+Prática de organização de dados e comparação de resultados de vendas utilizando Python.
+
+
