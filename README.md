@@ -141,6 +141,44 @@ O objetivo é simular um sistema de gerenciamento de produtos de um mercado, per
 ## Aprendizados
 
 Prática de lógica de programação, organização de dados e desenvolvimento de funcionalidades para gerenciamento de produtos utilizando Python.
+---
+
+# Simulação Financeira de uma Fábrica
+
+## Sobre o projeto
+
+Projeto independente desenvolvido em Python durante meus estudos e prática de programação.
+
+O objetivo é simular os resultados financeiros de uma fábrica que produz diferentes tipos de refrigerantes, calculando o faturamento e o lucro com base nas quantidades produzidas, preços de venda e custos.
+
+## Produtos simulados
+
+- Coca-Cola
+- Pepsi
+- Fanta
+- Dolly
+
+## Funcionalidades
+
+- Definição das quantidades produzidas.
+- Cálculo do faturamento de cada produto.
+- Cálculo do faturamento total.
+- Definição dos custos de produção.
+- Cálculo do lucro da fábrica.
+
+## Tecnologias e conceitos utilizados
+
+- Python
+- Variáveis
+- Operações matemáticas
+- Estruturas de dados
+- Cálculos financeiros
+
+## Aprendizados
+
+Prática de programação aplicada a cálculos financeiros, organização de informações e análise de resultados de uma simulação empresarial.
+
+
 
 
 
