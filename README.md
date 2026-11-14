@@ -238,6 +238,29 @@ Projeto desenvolvido em Python durante uma aula, com o objetivo de identificar p
 - Estruturas condicionais (`if` e `else`)
 - Estruturas de repetição (`for`)
 - Listas
+## 10. Análise da Maior e Menor Venda por Semestre
+
+Projeto desenvolvido em Python para analisar os valores de vendas registrados ao longo do ano, comparando os resultados do primeiro e do segundo semestre.
+
+### Funcionalidades
+- Armazenamento dos meses do ano.
+- Registro dos valores de vendas do primeiro semestre.
+- Registro dos valores de vendas do segundo semestre.
+- Identificação da maior venda de cada semestre.
+- Identificação da menor venda de cada semestre.
+- Exibição dos resultados da análise.
+
+### Tecnologias utilizadas
+- Python
+- Jupyter Notebook
+
+### Conceitos praticados
+- Listas
+- Funções `max()` e `min()`
+- Variáveis
+- Formatação de textos com `format()`
+- Análise e comparação de dados
+- 
 
 
 
