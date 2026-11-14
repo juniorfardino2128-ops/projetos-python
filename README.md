@@ -74,6 +74,44 @@ O objetivo é verificar quais vendedores atingiram a meta de vendas estabelecida
 ## Aprendizados
 
 Prática de estruturas de repetição, condicionais e organização de dados em Python para análise de resultados de vendas.
+---
+
+# Cadastro de Funcionários
+
+## Sobre o projeto
+
+Projeto independente desenvolvido em Python durante meus estudos e prática de programação.
+
+O objetivo é simular um sistema de cadastro e gerenciamento de funcionários por meio de um menu interativo.
+
+## Funcionalidades
+
+- Cadastro de funcionários.
+- Listagem de funcionários cadastrados.
+- Busca de funcionários.
+- Alteração dos dados dos funcionários.
+- Exclusão de funcionários.
+
+## Dados cadastrados
+
+- Nome.
+- Idade.
+- Cargo.
+- Salário.
+
+## Tecnologias e conceitos utilizados
+
+- Python.
+- Listas.
+- Estruturas condicionais.
+- Laços de repetição.
+- Entrada e validação de dados.
+
+## Aprendizados
+
+Prática de criação de menus interativos, organização de dados e desenvolvimento de funcionalidades de cadastro, consulta, alteração e exclusão em Python.
+
+
 
 
 
