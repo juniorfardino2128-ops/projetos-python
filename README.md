@@ -110,6 +110,45 @@ O objetivo é simular um sistema de cadastro e gerenciamento de funcionários po
 ## Aprendizados
 
 Prática de criação de menus interativos, organização de dados e desenvolvimento de funcionalidades de cadastro, consulta, alteração e exclusão em Python.
+---
+
+# Sistema de Cadastro de Produtos do Mercado
+
+## Sobre o projeto
+
+Projeto independente desenvolvido em Python durante meus estudos e prática de programação.
+
+O objetivo é simular um sistema de gerenciamento de produtos de um mercado, permitindo cadastrar, consultar e visualizar informações sobre os produtos.
+
+## Funcionalidades
+
+- Cadastro de produtos.
+- Listagem de produtos cadastrados.
+- Consulta de preços.
+- Identificação do produto mais caro.
+- Identificação do produto mais barato.
+- Menu interativo.
+
+## Tecnologias e conceitos utilizados
+
+- Python
+- Listas
+- Funções
+- Estruturas condicionais
+- Laços de repetição
+- Comparação de valores
+
+## Aprendizados
+
+Prática de lógica de programação, organização de dados e desenvolvimento de funcionalidades para gerenciamento de produtos utilizando Python.
+
+
+
+
+
+
+
+
 
 
 
