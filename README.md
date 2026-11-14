@@ -177,6 +177,26 @@ O objetivo é simular os resultados financeiros de uma fábrica que produz difer
 ## Aprendizados
 
 Prática de programação aplicada a cálculos financeiros, organização de informações e análise de resultados de uma simulação empresarial.
+## 7. Gráfico de Pizza com Python
+
+Projeto desenvolvido em Python utilizando a biblioteca Matplotlib para criar um gráfico de pizza e representar visualmente a distribuição de valores entre diferentes produtos.
+
+### Funcionalidades
+- Representação dos valores em um gráfico de pizza.
+- Exibição das porcentagens de cada produto.
+- Identificação dos produtos por meio de legendas.
+- Destaque visual de uma das partes do gráfico.
+
+### Tecnologias utilizadas
+- Python
+- Matplotlib
+
+### Conceitos praticados
+- Listas
+- Função `zip()`
+- Visualização de dados
+- Construção e personalização de gráficos
+
 
 
 
